@@ -1,4 +1,35 @@
 body {
     font-family: "Open Sans", sans-serif;
   }
-  
+.heading {
+    background-image: url(https://i.pinimg.com/originals/73/e6/5a/73e65a3c42e90b0c00a9f408283dc1bb.jpg);
+    color: #4e5155;
+    text-align: center;
+    padding: 10px;
+  }  
+.highlight {
+    background-color: #acb4ff;
+    background-image: linear-gradient(to right, #7d98f1 0%, #acc6ff 100%);
+    padding-left:4%;
+    padding-right:4%;
+    border-radius: 4em;
+}
+input {
+    width: 75%;
+  }
+#city-list {
+    width: 22rem;
+  }
+#city-date-icon,
+#city-name,
+#current-icon {
+      display: flex;
+      flex-direction: row;
+      justify-content: center/space-around/space-between;
+  }
+#forecast-cards {
+    /* background-image: url(https://i.pinimg.com/originals/73/e6/5a/73e65a3c42e90b0c00a9f408283dc1bb.jpg); */
+    display: flex;
+    flex-direction: row;
+    justify-content: center/space-between;
+}
