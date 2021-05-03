@@ -16,4 +16,7 @@ Here is the website with multiple cities logged
 ![](img/2021-05-02-21-01-51.png)
 
 ```
+## Here is a link to the deployed site:
+
+https://heparish.github.io/Weather-App/
 
