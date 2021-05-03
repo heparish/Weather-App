@@ -6,10 +6,11 @@ body {
     color: #4e5155;
     text-align: center;
     padding: 10px;
+    margin-bottom: 2%;
   }  
 .highlight {
     background-color: #acb4ff;
-    background-image: linear-gradient(to right, #7d98f1 0%, #acc6ff 100%);
+    background-image: linear-gradient(to right, #acc6ff 100%, #7d98f1 0%);
     padding-left:4%;
     padding-right:4%;
     border-radius: 4em;
